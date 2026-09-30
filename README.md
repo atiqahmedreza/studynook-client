@@ -1,6 +1,6 @@
 # StudyNook
 
-Live site URL: replace this line with your Vercel URL after you deploy the client.
+Live site URL: https://studynook-client-six.vercel.app
 
 StudyNook is a library study room booking site. Readers browse quiet rooms, reserve an hourly slot, and list a room they are allowed to manage.
 
